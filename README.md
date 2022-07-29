@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheCardiac
+- 👋 Hi, I’m Kyle Gause, or @TheCardiac
 - 👀 I’m interested in learning programming languages and using them in the workforce of cyber security.
 - 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me kylegause05@gmail.com
